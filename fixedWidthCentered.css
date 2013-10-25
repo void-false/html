@@ -1,0 +1,38 @@
+#all {
+   background-image: url("fixedBG.gif");
+   background-repeat: repeat-y;
+   width: 640px;
+   height: 600px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#header {
+   background-color: #e2e393;
+   border-bottom: 3px double black;
+   text-align: center;
+   float: left;
+   width: 640px;
+   clear: both;
+}
+
+#left {
+   float: left;
+   width: 200px;
+   clear: left;
+}
+
+#right {
+   float: left;
+   width: 440px;
+}
+
+#footer {
+   float: left;
+   width: 640px;
+   text-align: center;
+   background-color: #e2e393;
+   border-top: 3px double black;
+}
+
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="EN" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="content-type" content="text/xml; charset=utf-8" />
+      <title>absLayout.html</title>
+      <link rel = "stylesheet"
+            type = "text/css"
+            href = "absLayout.css" />
+   </head>
+   <body>
+      <div id = "all">
+         <div id = "head">
+            <h1>Layout with Absolute Positioning</h1>
+         </div>
+
+         <div id = "menu">
+
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus dui. Suspendisse potenti. Ut dui quam, Clara Prima, lacinia ac, fringilla et, justo. Matteus Squirrelius erat, elementum quis, rhoncus non, posuere nec, neque. Jacobus et diam eu orci placerat interdum. Sed sapien. Vestibulum viverra dapibus odio. Nunc vel Benjamis. Vivamus porta ipsum at lectus. In condimentum metus.
+         </div>
+
+         <div id = "content">
+
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus dui. Suspendisse potenti. Ut dui quam, Clara Prima, lacinia ac, fringilla et, justo. Matteus Squirrelius erat, elementum quis, rhoncus non, posuere nec, neque. Jacobus et diam eu orci placerat interdum. Sed sapien. Vestibulum viverra dapibus odio. Nunc vel Benjamis. Vivamus porta ipsum at lectus. In condimentum metus.
+
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus dui. Suspendisse potenti. Ut dui quam, Clara Prima, lacinia ac, fringilla et, justo. Matteus Squirrelius erat, elementum quis, rhoncus non, posuere nec, neque. Jacobus et diam eu orci placerat interdum. Sed sapien. Vestibulum viverra dapibus odio. Nunc vel Benjamis. Vivamus porta ipsum at lectus. In condimentum metus.
+
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus dui. Suspendisse potenti. Ut dui quam, Clara Prima, lacinia ac, fringilla et, justo. Matteus Squirrelius erat, elementum quis, rhoncus non, posuere nec, neque. Jacobus et diam eu orci placerat interdum. Sed sapien. Vestibulum viverra dapibus odio. Nunc vel Benjamis. Vivamus porta ipsum at lectus. In condimentum metus.
+         </div>
+      </div>
+   </body>
+</html>
+
